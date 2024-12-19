@@ -1,0 +1,25 @@
+.background{
+    background-image: url(Background.jpg);
+    background-repeat: no-repeat;
+    
+}
+.title{
+    font-family:serif;
+    font-size: xx-large;
+    color: black
+}
+
+
+.bullet-text {
+    font-size:x-large;
+    color: black;
+
+}
+
+.bond{
+    font-family: cursive;
+    font-size: larger;
+    color: black;
+    
+}
+
